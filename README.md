@@ -1,21 +1,21 @@
-# Hello, my name is Amie.
+# Hello, my name is Amie. 👋
 ## I'm a Licensed Vet Tech and I like to make web things and art.
 
 ---
 
 ### About
-#### *Vet Tech*
+#### *Vet Tech* 🐾
 
-#### *Web Dev*
+#### *Web Dev* 💻
 
-###### **Tech Stack/Tools**
+###### ✨ **Tech Stack/Tools**
 
-#### *Art*
+#### *Art* 🎨
 
 ---
 
 ### Projects
-#### Building in Public :-D 
+#### 🌱 Building in Public :-D 
 - Angry Spider (update and move to finished)
 - Dosage calculators
 - Blogs
@@ -23,24 +23,14 @@
 
 ---
 
-### Contact
+### 💬 Contact 📫
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/AmieRomano79)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/amie-romano-291159a2)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:amie.romano79@gmail.com)
-
-
-
 <!--
-**ARomano79/ARomano79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/profiles/aromano79) -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Made with Crayons](https://forthebadge.com/images/badges/made-with-crayons.png) 
+![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.png)
