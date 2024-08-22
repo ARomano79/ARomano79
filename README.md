@@ -1,11 +1,4 @@
 # Hello, my name is Amie. 👋
-## I'm a Licensed Vet Tech and I like to make web things and art.
-
----
-<!--
-### [About] || [Projects] || [Contact]
----
--->
 
 ### About
 #### *Vet Tech* 🐾
