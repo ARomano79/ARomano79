@@ -34,7 +34,7 @@ My current project involves creating zentangle and neurographica inspired art on
 
 ---
 
-### Projects/Repos
+### Projects/ Featured Repos
 🌱 *Building in Public...* 🙂
 #### Angry Spider
 A "for fun" project I made with HTML, CSS, and a touch of JS. One cold and rainy weekend in the Fall, my roommate's then 6 yr old and I were both bored, and ended up coming up with the story, "The Angry Spider who Stole Gems". 🙄 Honestly, I think she came up with most of it, and I mostly was asking her, "Whyyy???" as she added to the story.  A weekend later, it was also cold and now icy outside, so seemed like a good idea to make a landing page for the upcoming new book and practice some responsive design at the same time.
