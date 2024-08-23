@@ -7,7 +7,6 @@ Licensed since 2021, I have experience with canine and feline surgery and anesth
 #### *Web Dev* 💻
 After first learning HTML in 1999 (ask me about table layouts and clunky CSS 😆) and CSS a few years later,  I took a jump back into the web development pool in 2023 and then took a deep dive into web3 a few months later.  I enjoy working on projects (I don't see myself at one of the big companies, and I've never done a Leetcode), and seeing how I can merge my Vet Tech skills with my Dev skills.  I'm also interested in learning security research and bug hunting, and finding new ways to add to my skills.  
 ###### ✨ **Tech Stack/Tools**
-
 - HTML ⭐⭐⭐⭐
 - CSS ⭐⭐⭐
 - JS ⭐
@@ -34,10 +33,13 @@ My current project involves creating zentangle and neurographica inspired art on
 
 ---
 
-### Projects
+### Projects/Repos
 #### 🌱 Building in Public :-D 
-- **Angry Spider** - A "for fun" project I made with HTML, CSS, and JS.  One cold and rainy weekend in the Fall, my roommate's then 6 yr old and I were both bored, and ended up coming up with the story, "The Angry Spider who Stole Gems". 🙄 Honestly, I think she came up with most of it, and I mostly was asking her, "Whyyy???" as she added to the story.  A weekend later, it was also cold and now icy outside, so seemed like a good idea to make a landing page for the upcoming new book and practice some responsive design at the same time.  
-- Dosage calculators
+- **Angry Spider** - A "for fun" project I made with HTML, CSS, and a touch of JS. One cold and rainy weekend in the Fall, my roommate's then 6 yr old and I were both bored, and ended up coming up with the story, "The Angry Spider who Stole Gems". 🙄 Honestly, I think she came up with most of it, and I mostly was asking her, "Whyyy???" as she added to the story.  A weekend later, it was also cold and now icy outside, so seemed like a good idea to make a landing page for the upcoming new book and practice some responsive design at the same time.
+- **Collectible Corner** - A slightly ...bigger... project made with HTML, CSS, and a touch of JS.  Over another cold and rainy week or two in November, it seemed like a good idea to bring back tables like I hadn't seen one in 20 years... 🙄  Call me crazy, or blame the lack of sunlight, but this project got put on hold once I realized the insanity of what I was doing and that there was probably an easier way.  In the late 90s/very early 00s I collected a handful of Magic the Gathering cards because I liked the artwork, but never played.  I had recently found them while sorting through some old things and thought it would be good to practice my development skills by organizing them and researching value.  
+- **Dosage calculators** - a very work in progress project that currently features a calculator shell made w/ HTML & CSS, and will eventually include calculators for other common veterinary formulas, like fluid rates by weight, etc.  This will likely either be a section on the work QRG project, or merged with it once fully functional.    
+
+- 
 - Blogs
 - something Web3
 
