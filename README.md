@@ -13,6 +13,7 @@ After first learning HTML in 1999 (ask me about table layouts and clunky CSS �
 - JS ⭐
 - PostgresSQL ⭐
 - Solidity ⭐⭐
+- Foundry ⭐
 - Bash ⭐⭐
 - Git ⭐
 
