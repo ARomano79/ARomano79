@@ -15,6 +15,7 @@ After first learning HTML in 1999 (ask me about table layouts and clunky CSS �
 - Foundry ⭐
 - Bash ⭐⭐
 - Git ⭐
+- Mardown ⭐⭐
 
 ###### ✨ **Education**
 **2023-2024  freeCodeCamp** 
@@ -34,14 +35,16 @@ My current project involves creating zentangle and neurographica inspired art on
 ---
 
 ### Projects/Repos
-#### 🌱 Building in Public :-D 
-- **Angry Spider** - A "for fun" project I made with HTML, CSS, and a touch of JS. One cold and rainy weekend in the Fall, my roommate's then 6 yr old and I were both bored, and ended up coming up with the story, "The Angry Spider who Stole Gems". 🙄 Honestly, I think she came up with most of it, and I mostly was asking her, "Whyyy???" as she added to the story.  A weekend later, it was also cold and now icy outside, so seemed like a good idea to make a landing page for the upcoming new book and practice some responsive design at the same time.
-- **Collectible Corner** - A slightly ...bigger... project made with HTML, CSS, and a touch of JS.  Over another cold and rainy week or two in November, it seemed like a good idea to bring back tables like I hadn't seen one in 20 years... 🙄  Call me crazy, or blame the lack of sunlight, but this project got put on hold once I realized the insanity of what I was doing and that there was probably an easier way.  In the late 90s/very early 00s I collected a handful of Magic the Gathering cards because I liked the artwork, but never played.  I had recently found them while sorting through some old things and thought it would be good to practice my development skills by organizing them and researching value.  
-- **Dosage calculators** - a very work in progress project that currently features a calculator shell made w/ HTML & CSS, and will eventually include calculators for other common veterinary formulas, like fluid rates by weight, etc.  This will likely either be a section on the work QRG project, or merged with it once fully functional.    
+🌱 *Building in Public...* 🙂
+#### Angry Spider
+A "for fun" project I made with HTML, CSS, and a touch of JS. One cold and rainy weekend in the Fall, my roommate's then 6 yr old and I were both bored, and ended up coming up with the story, "The Angry Spider who Stole Gems". 🙄 Honestly, I think she came up with most of it, and I mostly was asking her, "Whyyy???" as she added to the story.  A weekend later, it was also cold and now icy outside, so seemed like a good idea to make a landing page for the upcoming new book and practice some responsive design at the same time.
+#### Collectible Corner 
+A slightly ...bigger... project made with HTML, CSS, and a touch of JS.  Over another cold and rainy week or two in November, it seemed like a good idea to bring back tables like I hadn't seen one in 20 years... 🙄  Call me crazy, or blame the lack of sunlight, but this project got put on hold once I realized the insanity of what I was doing and that there was probably an easier way.  In the late 90s/very early 00s I collected a handful of Magic the Gathering cards because I liked the artwork, but never played.  I had recently found them while sorting through some old things and thought it would be good to practice my development skills by organizing them and researching value.  
+#### Dosage calculators
+A very work in progress project that currently features a calculator shell made w/ HTML & CSS, and will eventually include calculators for other common veterinary formulas, like fluid rates by weight, etc.  This will likely either be a section on the work QRG project, or merged with it once fully functional. 
+#### Work QRG
+An attempt to migrate work SOPs from paper to digital, currently using HTML & CSS.     
 
-- 
-- Blogs
-- something Web3
 
 ---
 
