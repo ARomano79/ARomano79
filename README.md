@@ -2,6 +2,7 @@
 
 ### About
 #### *Vet Tech* 🐾
+Licensed since 2021, I have experience with canine and feline surgery and anesthesia, and am interested in dental health, nutrition, parasitology, and behavior.  Other experience and interests include equine care and behavior, with a focus on mustangs.   
 
 #### *Web Dev* 💻
 
