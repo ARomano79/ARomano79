@@ -24,9 +24,9 @@ After first learning HTML in 1999 (ask me about table layouts and clunky CSS �
 
 **2024  Cyfrin Updraft**
  - Blockchain Basics - completed but currently re-taking since new content was added recently.
- - Solidity 101 - completed but will be retaking.  
- - Foundry Fundamentals - in progress (prior to update), will refresh and retake with new content.    
-
+ - Solidity 101 - completed but will retake.    
+ - Foundry Fundamentals - in progress but will retake.    
+ 
 
 #### *Art* 🎨
 My current project involves creating zentangle and neurographica inspired art on tiny tiles with assorted media- including pens, gel pens, markers, and watercolors.  (Possible NFT idea in the future? 🤔)  
