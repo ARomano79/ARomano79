@@ -30,5 +30,7 @@
 ![Made with Crayons](https://forthebadge.com/images/badges/made-with-crayons.png) 
 ![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.png)
 
-*(I got these fun badges for free from [For the Badge](https://forthebadge.com/), and the skill and contact buttons from [Skill Icons](https://skillicons.dev/).)*
+<sup>
+(I got these fun badges for free from <a href="https://forthebadge.com">For the Badge</a>, and the skill and contact buttons above from <a href="https://skillicons.dev">Skill Icons</a>.)
+</sup>
 
