@@ -2,7 +2,7 @@
 
 ### About
 #### *Vet Tech*  🐶 
-Licensed since 2021, I have experience with canine and feline surgery and anesthesia, and am interested in dental health, nutrition, parasitology, and behavior.  Other experience and interests include equine care and behavior, with a focus on mustangs.  I enjoy my current position as an LVT at a local animal hospital, but am open to contributing to Veterinary related projects/documents/articles by request.     
+Licensed since 2021, I have experience with canine and feline surgery and anesthesia, and am interested in dental health, nutrition, parasitology, and behavior.  Other experience and interests include equine care and behavior, with a focus on mustangs.  I enjoy my current position as an LVT at a local animal hospital, and am open to contributing to Veterinary related projects by request.     
 
 #### *Web Dev* 💻
 After first learning HTML in 1999 (ask me about table layouts and clunky CSS 😆) and CSS a few years later,  I took a jump back into the web development pool in 2023 and then took a deep dive into web3 a few months later.  I enjoy working on projects (I don't see myself at one of the big companies, and I've never done a Leetcode), and seeing how I can merge my Vet Tech skills with my Dev skills.  I'm also interested in learning security research and bug hunting, and finding new ways to add to my skills.  
@@ -15,6 +15,17 @@ After first learning HTML in 1999 (ask me about table layouts and clunky CSS �
 - Solidity ⭐⭐
 - Bash ⭐⭐
 - Git ⭐
+
+###### ✨ **Education**
+**2023-2024  freeCodeCamp** 
+ - Responsive Web Design - completed
+ - Javascript - in progress
+ - Relational Databases - in progress
+
+**2024  Cyfrin Updraft**
+ - Blockchain Basics - completed but currently re-taking since new content was added recently.
+ - Solidity 101 - completed but will be retaking.  
+ - Foundry Fundamentals - in progress (prior to update), will refresh and retake with new content.    
 
 
 #### *Art* 🎨
