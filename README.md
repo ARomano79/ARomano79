@@ -43,7 +43,7 @@ A slightly ...bigger... project made with HTML, CSS, and a touch of JS.  Over an
 #### Dosage calculators
 A very work in progress project that currently features a calculator shell made w/ HTML & CSS, and will eventually include calculators for other common veterinary formulas, like fluid rates by weight, etc.  This will likely either be a section on the work QRG project, or merged with it once fully functional. 
 #### Work QRG
-An attempt to migrate work SOPs from paper to digital, currently using HTML & CSS.     
+An attempt to migrate work SOPs from paper to digital, currently using HTML & CSS.  (And yes, I broke some of it on purpose. 😉)     
 
 
 ---
