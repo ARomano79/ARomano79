@@ -55,11 +55,3 @@ An attempt to migrate work SOPs from paper to digital, currently using HTML & CS
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:amie.romano79@gmail.com)
 
 
----
-![Made with Crayons](https://forthebadge.com/images/badges/made-with-crayons.png) 
-![Powered by Coffee](https://forthebadge.com/images/badges/powered-by-coffee.png)
-
-<sup>
-(I got these fun badges for free from <a href="https://forthebadge.com">For the Badge</a>, and the skill and contact buttons above from <a href="https://skillicons.dev">Skill Icons</a>.)
-</sup>
-
